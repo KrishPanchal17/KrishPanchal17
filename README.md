@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krish Panchal</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A final year CSE student, interested in Data Analytics, Web Development, and Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishpanchal17&label=Profile%20views&color=0e75b6&style=flat" alt="krishpanchal17" /> </p>
 
-- 🌱 I’m currently learning **C, C++, Python, Web Development.**
+- 🌱 Proficient in **C, C++, Python, Data Analytics, and Web Development.**
 
 - 📫 How to reach me **kp1762004@gmail.com**
 
